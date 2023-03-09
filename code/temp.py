@@ -3,8 +3,6 @@ from pygame import mixer
 
 import tkinter as tk
 import customtkinter
-import numpy as np
-import matplotlib.pyplot as plt
 import my_functions
 
 
