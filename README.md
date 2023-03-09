@@ -9,7 +9,7 @@ If you change the sound effects,change the mp3 files from appliacation destinati
 
 The applicaiton uses customtkinter and pygame mixer modules.
 
-compiled projet download link:
+compiled projet download link:https://sourceforge.net/projects/stream-desk/
 
 
 
